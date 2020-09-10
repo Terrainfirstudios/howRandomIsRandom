@@ -1,0 +1,96 @@
+/***************************************************************************
+************Welcome to Random Coding challange #1*****************************
+********************How Random Is Random**************************************
+******************************************************************************
+******************************************************************************
+**********************************************Coding by Terrainfir Studios****
+*****************************************************************************/
+
+body{/*Style for everything in html body*/
+    background-color:black;
+}
+#mBox{/*Style for div id mBox*/
+    position:absolute;
+    background-color:yellow;
+    color:black;
+    width: 50%;
+    height: 500px;
+    right:25%;
+    top:25%;
+
+}
+.Roll{/*Style for Roll button*/
+    position:absolute;
+    background-color:darkgrey;
+    color:black;
+    width: 25%;
+    height: 40px;
+    right:35%;
+    top:65%;
+
+}
+
+.Roll:hover{/*Style for Roll button when mouse pointer hovers over it*/
+    position:absolute;
+    background-color:white;
+    color:black;
+    width: 25%;
+    height: 40px;
+    right:35%;
+    top:65%;
+
+}
+
+.Title{/*Style for Title*/
+    position:absolute;
+    color:yellow;
+    width: 50%;
+    height: 20px;
+    right:10%;
+    top:15%;
+}
+#word{/*Style for output of Varible A*/
+    position:absolute;
+	top:40%;
+	left:50%;
+	Color: black;
+	text-align: center;
+	display:inline-block;
+	font-size: 40px;
+}
+#word1{/*Style for output of Varible B*/
+    position:absolute;
+	top:45%;
+	left:50%;
+	Color: black;
+	text-align: center;
+	display:inline-block;
+	font-size: 40px;
+}
+#word2{/*Style for output of Varible C*/
+    position:absolute;
+	top:50%;
+	left:50%;
+	Color: black;
+	text-align: center;
+	display:inline-block;
+	font-size: 40px;
+}
+#word3{/*Style for output of Varible D*/
+    position:absolute;
+	top:55%;
+	left:50%;
+	Color: black;
+	text-align: center;
+	display:inline-block;
+	font-size: 40px;
+}
+#word4{/*Style for output of Varible E*/
+    position:absolute;
+	top:60%;
+	left:50%;
+	Color: black;
+	text-align: center;
+	display:inline-block;
+	font-size: 40px;
+}
